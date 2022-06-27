@@ -1,0 +1,7 @@
+.stand-input {
+    max-width: 600px !important;
+}
+.check-usr-wrong {
+    color: red;
+    font-weight: bold;
+}
